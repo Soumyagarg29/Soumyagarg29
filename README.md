@@ -14,11 +14,34 @@ I'm a software developer and Computer Engineering student at Pune Institute of C
 
 ### 🔧 Technical Skills
 
-- **Languages**: C++, Python, Java, JavaScript
-- **Frameworks**: Flask, Node.js, Flutter, Langchain
-- **Databases**: MongoDB, MySQL, VectorDB, QdrantDB, ElasticSearch
-- **CS Fundamentals**: DBMS, OOP, DSA, OS, CNS
-- **Tools**: Git/GitHub, Postman, VS Code, Figma
+### Languages
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Frameworks
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-008080?logo=apollographql&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![VectorDB](https://img.shields.io/badge/-VectorDB-008080?logo=databricks&logoColor=white)
+![QdrantDB](https://img.shields.io/badge/-QdrantDB-FF4500?logo=redhat&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white)
+
+### CS Fundamentals
+- DBMS, OOP, DSA, OS, CNS
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
@@ -49,7 +72,6 @@ I'm a software developer and Computer Engineering student at Pune Institute of C
 - **Azodha Pvt. Ltd. | Flutter Developer**  
   *September 2023 - December 2023*  
   - Integrated API services for a healthcare provider app, with a focus on scheduling, state management, and UI optimizations.
-
 ---
 
 ### 🛠 Projects
@@ -59,8 +81,7 @@ I'm a software developer and Computer Engineering student at Pune Institute of C
   - Developed features like FAQ chatbot, automated document verification, and resume ATS checker for student placement.
 
 - **Pulzion Platform**  
-  - Led app development, adding payment integration and restructuring the MCQ platform used by 100+ users. Achieved 650+ downloads.
-
+  - Led app development, adding payment integration and restructuring the MCQ platform used by 100+ users. Achieved 650+ downloads
 ---
 
 ### 📫 Connect with Me
@@ -73,20 +94,9 @@ I'm a software developer and Computer Engineering student at Pune Institute of C
 
 ---
 
-### 💼 Positions of Responsibility
-
-- **Editing Head**, PICTOREAL - Official College Magazine  
-- **Internal Engagement Officer**, PICT ACM Student Chapter  
-  - Led internship prep sessions and organized **Pulzion '23**.
-- **Member**, PICT Internal Quality Assurance Cell
-
----
-
 ### 🌱 Fun Facts
 
 - I love solving algorithmic challenges and ranked globally in ICPC Algoqueen.
-- When not coding, you might find me exploring new cuisines or managing events on campus!
+- When not coding, you might find me exploring new places or managing events on campus!
 
 ---
-
-Thanks for visiting my profile! 😊
